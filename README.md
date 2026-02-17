@@ -1,33 +1,51 @@
 # SJ Digital Studios
-
 Innovation • Precision • Digital
 
-## About Me
+## About Us
 
-Founder of SJ Digital Studios  
-Web Developer | Content Creator | Creative Tech
+SJ Digital Studios is a full-service digital development studio focused on building high-performance systems, scalable infrastructures and professional online platforms.
 
-I build digital systems, scripts and creative online experiences.
-
----
-
-## What I Work On
-
-- Custom Scripts
-- Web Development
-- Digital Systems
-- Creative Tech Solutions
+Founded by a passionate developer with a strong focus on precision, security and scalability.
 
 ---
 
-## Current Projects
+## Core Expertise
 
-- Private client systems
-- Custom automation tools
-- Web-based platforms
+- FiveM Development & Custom Server Systems
+- Advanced Script Development
+- Web Development (Business & SaaS Platforms)
+- Custom Web Applications
+- PHP Backend Infrastructure
+- Secure REST API Architecture
+- E-Commerce Platforms
+- Discord Bot & Automation Systems
+- Database Design & Optimization
+- Enterprise-Level System Architecture
 
 ---
 
-## Contact
+## What We Build
 
-Business inquiries only via official channels.
+- Full custom server ecosystems
+- Scalable backend infrastructures
+- Secure authentication systems
+- Automation dashboards
+- SaaS platforms
+- High-load API systems
+- Enterprise database setups
+- Long-term maintenance solutions
+
+---
+
+## Focus
+
+We specialize in performance-driven digital systems built with:
+
+- Security
+- Scalability
+- Clean architecture
+- Long-term maintainability
+
+---
+
+Business inquiries via official channels only.
